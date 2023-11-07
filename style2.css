@@ -1,0 +1,9 @@
+.card-body{
+    background-color:rgb(0, 0, 0)
+}
+
+.background{
+    background-image: linear-gradient(to right, red , yellow);
+    color: white;
+}
+
